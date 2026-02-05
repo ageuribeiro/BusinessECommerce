@@ -1,8 +1,7 @@
 ﻿namespace BusinessECommerce.Amazon
 {
-    public class Class1
+    public class Main
     {
-
 
     }
 }
