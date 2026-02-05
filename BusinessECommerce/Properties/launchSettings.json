@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BusinessECommerce": {
+      "commandName": "Project",
+      "commandLineArgs": "AutomationWeb\r\n"
+    }
+  }
+}

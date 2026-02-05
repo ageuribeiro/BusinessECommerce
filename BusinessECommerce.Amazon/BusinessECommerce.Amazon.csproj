@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessECommerce.Core\BusinessECommerce.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Instructions\" />
+    <Folder Include="BusinessExceptions\" />
+    <Folder Include="ApplicationExceptions\" />
+    <Folder Include="Services\" />
+    <Folder Include="Worksteps\" />
+  </ItemGroup>
+
+</Project>
